@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar M </h1>
 <h3 align="center">A passionate DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumarm287&theme=gotham" alt="niteshkumarm287" /></p>
-
-
-<!--
-<img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300">
--->
 
 ## ⚡Languages and Tools
 
@@ -22,12 +16,6 @@
 ### Show some ❤️ by starring some of the repositories!
   
   </div>
-
-## 📊 GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshkumarm287&show_icons=true&locale=en&theme=gotham" alt="niteshkumarm287" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkumarm287&show_icons=true&locale=en&layout=compact&theme=gotham" alt="niteshkumarm287" /></p> <br>
 
 <!--
 #### Thanks for visiting :heart:
