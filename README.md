@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar M </h1>
 <h3 align="center">A passionate DevOps Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumarm287&theme=gotham" alt="niteshkumarm287" /></p>
+
+
+<!--
+<img align='right' src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300">
+-->
 
 ## ⚡Languages and Tools
 
