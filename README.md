@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar M </h1>
-<h3 align="center">A passionate NOC/SRE Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
+<h3 align="center">A passionate DevOps/SRE Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am currently learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
 
 
 ## 🌐 Socials:
