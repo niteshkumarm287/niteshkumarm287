@@ -1,43 +1,91 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar M </h1>
-<h3 align="center">A passionate DevOps/SRE Engineer. I have a keen interest in Cloud Computing, DevOps and automation. I am continuously learning various DevOps tools and methodologies, with the goal of developing and deploying production-ready applications.</h3>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nitesh__kumar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-kumar-m) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kumarmnitesh) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Nitesh-Kumar-M) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nitesh4871) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nitesh-kumar-m) 
-
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niteshkumarm287&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=niteshkumarm287&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumarm287&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niteshkumarm287&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niteshkumarm287&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Nitesh Kumar M</h1>
+<h3 align="center">
+Site Reliability Engineer | GCP & Kubernetes | Automating Cloud Infrastructure & CI/CD | Ensuring Database Reliability (Cassandra, MySQL, PostgreSQL, Spanner)
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=niteshkumarm287&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 About Me
+As a **Site Reliability Engineer**, I specialize in transforming complex cloud and infrastructure challenges into scalable, automated, and reliable systems.
 
+With hands-on experience across **GCP, Kubernetes, Docker, Terraform, and Datadog**, I focus on improving uptime, performance, and observability.  
+I’ve implemented **CI/CD automation**, **Observability-as-Code**, and **database reliability solutions** that streamline deployments and enhance operational efficiency.
 
+I believe in an **automation-first** approach — blending reliability engineering with strong DevOps practices to deliver resilient, maintainable systems.
 
-## 📫 How to reach me?
+---
 
-⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-m/) 👨🏻‍💻 <br>
-⦿ Shoot Me an [Email](mailto:kumarmnitesh@gmail.com) 💌 <br>
+## 💼 Current Role
+**SRE Development Engineer @ PamTen Inc**  
+*(March 2025 – Present, Bengaluru, India)*  
+- Spearheading database reliability initiatives for **Cassandra**, **MySQL**, **PostgreSQL**, and evaluating **Google Spanner** integration.  
+- Implementing **CI/CD best practices** and **Observability as Code (OaC)** using GitHub Actions and Datadog.  
+- Collaborating with cross-functional teams to improve **visibility**, **efficiency**, and **standardization** across services.
+
+**Past Experience:**  
+- **LTIMindtree** — Senior Engineer (Cloud & Infra), DevOps Engineer  
+- **LTI (Larsen & Toubro Infotech)** — Cloud Engineer, Associate Trainee Engineer  
+
+---
+
+## 🧠 Skills & Specialties
+- **Cloud Platforms:** Google Cloud Platform (GCP), AWS  
+- **Containers & Orchestration:** Kubernetes, Docker  
+- **Infrastructure as Code:** Terraform  
+- **CI/CD:** GitHub Actions, ArgoCD  
+- **Monitoring & Observability:** Datadog, Prometheus, Grafana, Splunk  
+- **Databases:** Cassandra, MySQL, PostgreSQL, Spanner  
+- **Version Control & Collaboration:** Git, GitHub, Jira, Confluence  
+- **Automation:** Python scripting, Infrastructure standardization, GitOps workflows
+
+---
+
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spanner](https://img.shields.io/badge/Spanner-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+
+---
+
+## 📚 Certifications
+- **Datadog Certified**  
+- **Apache Cassandra 3 Administrator Associate Certification**  
+- **Associate Cloud Engineer**  
+
+---
+
+## 🎓 Education
+**Bachelor’s in Computer Science**  
+*REVA University, Bengaluru (2018 – 2021)*
+
+---
+
+## 📫 Let’s Connect
+⦿ [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-m/)  
+⦿ [Email](mailto:kumarmnitesh@gmail.com)  
+⦿ [Instagram](https://instagram.com/_nitesh__kumar_)  
+⦿ [Medium](https://medium.com/@kumarmnitesh)
+
+---
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
-  
-  </div>
+### Show some ❤️ by starring repositories you like!
 
-<!--
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/niteshkumarm287/count.svg)
--->
+</div>
