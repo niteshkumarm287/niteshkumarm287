@@ -1,7 +1,21 @@
-# Hi, I'm Nitesh Kumar M 👋
+# Hi, I’m Nitesh Kumar M
 
-I build scalable, reliable, and automated systems that keep cloud infrastructure running smoothly — every single day.  
-As a **Site Reliability Engineer (SRE)**, I focus on blending reliability engineering with DevOps automation to deliver resilient, observable, and high-performing systems.
+Senior Software Development Engineer at **Dexcom**, focused on **Site Reliability Engineering** and **platform engineering**.
+
+I build reliable, scalable cloud platforms and the automation behind them—covering Kubernetes, Infrastructure as Code, CI/CD, GitOps, observability, and database reliability. My goal is to reduce operational toil and help engineering teams ship safely and confidently.
+
+## Current Role
+
+### Senior Software Development Engineer — Dexcom
+*Present | Bengaluru, India*
+
+- Building and operating reliable cloud-native platforms and internal engineering capabilities.
+- Improving platform resilience, delivery automation, observability, and operational standards.
+- Partnering across engineering teams to reduce toil and make systems easier to operate at scale.
+
+**Previous Roles:**  
+- **LTIMindtree** — Senior Engineer (Cloud & Infra)  
+- **LTI (Larsen & Toubro Infotech)** — Cloud Engineer / Associate Trainee  
 
 ---
 
@@ -12,21 +26,6 @@ As a **Site Reliability Engineer (SRE)**, I focus on blending reliability engine
 - ☁️ **Cloud & Containers:** GCP, Kubernetes, Docker.  
 - 📊 **Observability:** Datadog, Prometheus, Grafana — implementing **Observability-as-Code (OaC)**.  
 - 🗄️ **Database Reliability:** Managing and optimizing **Cassandra, MySQL, PostgreSQL, and Spanner** clusters.  
-
----
-
-### 💼 Current Role
-
-**SRE Development Engineer @ PamTen Inc**  
-*(Mar 2025 – Present, Bengaluru, India)*  
-
-- Spearheading database reliability for **Cassandra, MySQL, PostgreSQL**, and **Spanner** adoption.  
-- Implementing **CI/CD best practices** and **Observability as Code** with **Datadog** & **GitHub Actions**.  
-- Partnering with cross-functional teams to enhance **visibility, efficiency, and operational standardization**.
-
-**Previous Roles:**  
-- **LTIMindtree** — Senior Engineer (Cloud & Infra)  
-- **LTI (Larsen & Toubro Infotech)** — Cloud Engineer / Associate Trainee  
 
 ---
 
